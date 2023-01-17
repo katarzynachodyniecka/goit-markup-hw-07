@@ -497,7 +497,7 @@ ul {
     outline: none;
 }
 
-.newsletter-btn {
+.newsletter__btn {
     width: 200px;
     height: 50px;
     background-color: var(--brand-color-blue);
