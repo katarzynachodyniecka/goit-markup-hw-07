@@ -1,4 +1,4 @@
-@import "./utils/vars";
+@use "./utils/vars" as *;
 @import "./utils/global";
 
 @import "./components/header";
